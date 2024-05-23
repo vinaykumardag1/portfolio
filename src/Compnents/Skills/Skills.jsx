@@ -9,7 +9,7 @@ import cap_icon from './skills_icon/cap_icon.svg'
 import work_experice from './skills_icon/work_xperience.svg'
 import acheivement_icon from './skills_icon/achivement-icon.svg'
 import download_icon from './skills_icon/download-icon.svg'
-import resume from './skills_icon/Resume1.pdf'
+import resume from './skills_icon/resume.pdf'
 const Skills = () => {
   const skills_icons=[
     {
